@@ -6,7 +6,7 @@ This project contains one R script, run_analysis.R, which will calculate means p
 
 Once executed, the resulting dataset maybe found at ./data/tidy_data.txt
 
-For futher details, refer to CookBook.md
+For futher details, refer to CodeBook.md
 
 # References
 
